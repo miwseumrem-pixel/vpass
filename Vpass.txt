@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: TGK: @GoodbyeWL 
+#profile-title: ПИЗДЕЦ КОТЕНКУ
 vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@0.0.0.0:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%7C%20TGK%20t.me%2FGoodbyeWL 
 vless://0ec69e9d-290e-5090-872e-93b51084f060@84.201.172.189:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&security=reality&sid=2b145d99dc39e2cc&sni=sun9-38.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20CIDR%201724
 vless://2dd1a15d-1426-413a-a3b8-a645788bc844@178.154.255.96:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=eh.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20CIDR%20986
