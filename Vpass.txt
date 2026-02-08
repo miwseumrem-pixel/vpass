@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: ФУРИ-БРОНИ-КАВАДРОБЕРЫ
+#profile-title: ФУРИ-БРОНИ
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.250.243.98:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c#%F0%9F%87%B7%F0%9F%87%BA%5Bopenproxylist.com%5D%20vless-RU
 vless://7e2b2894-3b5c-4b65-acc5-e1784f4047f2@146.185.240.23:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#%F0%9F%87%B9%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-TR%20%281%29
 vless://f4643425-78b3-44ac-954b-4a2167002c23@212.233.96.101:443/?type=tcp&encryption=none&flow=&sni=yandex.ru&fp=chrome&security=reality&pbk=rgzU-HlMzZccV6ZjxLw_Fs9Pxeyrj2N3HFMgURyjwwc&sid=f92954e2e710#%F0%9F%87%B5%F0%9F%87%B1%5Bopenproxylist.com%5D%20vless-PL%20%282%29
