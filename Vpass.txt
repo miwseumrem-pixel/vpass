@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title:  Madding Hand
+#profile-title:  Madding
 vless://40d02fdd-2593-4139-b678-2dd9d32f79a6@217.16.23.183:8443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%21%2010%20%7C%20REALITY%20%7C%20SNI%3A%20ads.x5.ru%20%7C%20IN%3A%20RU%20OUT%3A%20NL%20%7C%20RATING%3A%206%2F10
 vless://aa3b8daf-52e2-4b4f-9863-d383d27e107a@217.16.23.116:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%21%2011%20%7C%20REALITY%20%7C%20SNI%3A%20ads.x5.ru%20%7C%20IN%3A%20RU%20OUT%3A%20NL%20%7C%20RATING%3A%206%2F10
 vless://aa3b8daf-52e2-4b4f-9863-d383d27e107a@217.16.18.78:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%21%2016%20%7C%20REALITY%20%7C%20SNI%3A%20ads.x5.ru%20%7C%20IN%3A%20RU%20OUT%3A%20NL%20%7C%20RATING%3A%205%2F10
